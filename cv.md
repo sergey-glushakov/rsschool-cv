@@ -72,7 +72,11 @@ There will be links to future works here...
 Education
 ------------------
 
-
+| Year of study         | Educational institution                                           | Specialization      |
+|-----------------------|-------------------------------------------------------------------|---------------------|
+| ***2002 - 2004***     | __Gomel College of Trade and Economics__ __Gomel__ __Belarus__    | ***Accountant***    |
+| ***2009 - 2014***     | __Finance and Humanities Academy__ __Moscow__ __Russia__          | ***Economist***     |
+|                       |                                                                   |                     |
 <!-- Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) -->
 Languages
 ------------------
