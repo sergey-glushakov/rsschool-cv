@@ -40,6 +40,8 @@ Soft - Skills:
 + **Communication**
 + **Teamwork**
 + **Self-Motivation**
++ **Responsibility**
++ **Flexibility**
 
 
 <!-- Примеры кода -->
