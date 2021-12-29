@@ -14,6 +14,7 @@ Contacts:
 + **skype** _Margo301983_
 + **email** _sergey_glushakov_web@mail.ru_
 + **telegram** _https://t.me/sergey_glushakov_
++ **discord** _Sergey Glushakov#7414_
 
 <!-- Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое) -->
 About me:
