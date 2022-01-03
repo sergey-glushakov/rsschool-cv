@@ -12,7 +12,7 @@ body {
 }
 
 /* .header */
-.header > .container {
+.header > .container .row{
     background-color: var(--dark);
 }
 
@@ -36,7 +36,6 @@ body {
 
 .profile__text-wrapper {
     background-color: var(--yellow);
-    margin-right: -10px;
     padding-bottom: 10px;
     color: var(--dark);
 
@@ -59,7 +58,6 @@ body {
 
 .nav {
     background-color: var(--yellow);
-    margin-right: -10px;
     color: var(--text);
 }
 
@@ -152,3 +150,24 @@ body {
 /* code */
 
 /* projects */
+
+/* footer */
+.footer > .container .row {
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: var(--yellow);
+}
+
+.footer__link-github {
+    display: flex;
+    align-items: center;
+}
+
+.footer__link-img {
+    display: inline-block;
+    margin-right: 10px;
+}
