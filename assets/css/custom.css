@@ -1,0 +1,154 @@
+:root {
+    --light-grey: #202026;
+    --dark: #1e1e1e;
+    --light-blue: #91bbe0;
+    --yellow: #fecb00;
+    --white: #ffffff;
+    --text: #202020;
+}
+
+body {
+    background-color: var(--light-grey);
+}
+
+/* .header */
+.header > .container {
+    background-color: var(--dark);
+}
+
+/* .profile */
+
+.profile__left {
+    width: 25%;
+}
+
+.profile__right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 75%;
+    color: var(--text);
+}
+
+.profile__img {
+    display: block;
+}
+
+.profile__text-wrapper {
+    background-color: var(--yellow);
+    margin-right: -10px;
+    padding-bottom: 10px;
+    color: var(--dark);
+
+}
+
+.profile__title {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.profile__occupation {
+    text-align: right;
+    padding-right: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+/* .nav */
+
+.nav {
+    background-color: var(--yellow);
+    margin-right: -10px;
+    color: var(--text);
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav__item-link {
+    display: inline-block;
+    padding: 10px 0;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+
+/* .sidebar */
+.sidebar {
+    width: 25%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: var(--dark);
+}
+
+/* .contacts */
+.contacts__tite .title {
+    text-align: left;
+    color: var(--white);
+    font-size: 24px;
+}
+
+.contacts__item {
+    margin-bottom: 10px;
+}
+
+.contacts__link {
+    display: block;
+    color: var(--white);
+}
+
+.contacts__link > span{
+    font-weight: 500;
+    color: var(--yellow);
+}
+
+
+
+.contacts__icon {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.skills {
+    color: var(--white);
+}
+
+.languages {
+    color: var(--white);
+}
+
+/* .main */
+
+.main {
+    background-color: var(--white);
+    width: 75%;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* summary */
+
+/* education */
+.education__link em{
+    color: var(--yellow);
+    font-weight: 500;
+}
+/* courses */
+.courses__link {
+    text-decoration: underline;
+}
+
+.courses__link:hover {
+    text-decoration: none;
+
+}
+/* code */
+
+/* projects */
