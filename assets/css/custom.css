@@ -175,6 +175,18 @@ body {
 
 /* projects */
 
+.projects__item-link {
+    font-weight: 500;
+    color: var(--text);
+    text-decoration: underline;
+    transition: 0.3s ease-out;
+
+}
+
+.projects__item-link:hover {
+    color: var(--yellow);
+}
+
 /* footer */
 .footer > .container .row {
     justify-content: space-between;
