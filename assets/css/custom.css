@@ -4,6 +4,7 @@
     --light-blue: #91bbe0;
     --yellow: #fecb00;
     --white: #ffffff;
+    --black: #000000;
     --text: #202020;
 }
 
@@ -174,6 +175,39 @@ body {
 /* code */
 
 /* projects */
+.projects__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+}
+.projects__item {
+    position: relative;
+    min-width: 263px;
+    height: 240px;
+    align-items: center;
+    box-shadow: 2px 2px 5px 0px rgb(50 50 50 / 20%);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.projects__item-pic {
+    display: block;
+}
+
+.projects__item:hover {
+    transform: scale(0.99);
+}
+
+.projects__item-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: var(--black);
+    color: var(--white);
+    text-align: center;
+}
 
 .projects__item-link {
     font-weight: 500;
