@@ -56,4 +56,9 @@ There will be links to future works here...
  1. ***2002 - 2004***      [__Gomel College of Trade and Economics__](http://gtec-bks.by/)
  2. ***2009 - 2014***      [__Finance and Humanities Academy__](https://sfga.ru/)
 
- 
+## Languages
+
+* Belorussian - С2
+* Russian - C2
+* German - A1
+* English - A1
